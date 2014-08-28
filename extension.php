@@ -1,12 +1,11 @@
 <?php
 
-// Google groups extension for Bolt
+// AddThis groups extension for Bolt
 
 namespace AddThis;
 
 class Extension extends \Bolt\BaseExtension
 {
-
     function info()
     {
         $data = array(
