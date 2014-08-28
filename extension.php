@@ -1,6 +1,6 @@
 <?php
 
-// AddThis groups extension for Bolt
+// AddThis extension for Bolt
 
 namespace AddThis;
 
